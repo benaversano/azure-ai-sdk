@@ -1,5 +1,4 @@
 node_modules/
-dist/
 
 # Local OpenCode config (may contain API keys — copy from opencode.example.json)
 opencode.json
